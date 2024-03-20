@@ -1,0 +1,12 @@
+{
+  "accessibility.signals.sounds.volume": 0,
+  "accessibility.signals.lineHasInlineSuggestion": {
+    "sound": "off"
+  },
+  "github.copilot.advanced": {
+    "accessibility.signals.sounds.volume": 0,
+    "accessibility.signals.lineHasInlineSuggestion": {
+      "sound": "off"
+    }
+  }
+}
